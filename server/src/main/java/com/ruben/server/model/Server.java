@@ -1,4 +1,4 @@
-package com.ruben.server.repo;
+package com.ruben.server.model;
 
 import com.ruben.server.ennumeration.Status;
 import lombok.AllArgsConstructor;
